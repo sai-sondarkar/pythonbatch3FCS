@@ -1,0 +1,1 @@
+Here we are writing a file with open using modes
